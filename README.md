@@ -52,6 +52,3 @@ connected via a VPN or Tor, no identity or location information can be linked
 to the user's inbox and its contents on the *kzymy* server, and full confidentiality
 of message content is preserved between the *kzymy* server and the client on the
 user's VM.
-
-
-between the
